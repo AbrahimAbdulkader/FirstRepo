@@ -1,4 +1,4 @@
-import logo from './AbrahimAbdulkader.jpg';
+import logo from './AbrahimAbdulkader.JPG';
 import './App.css';
 
 function App() {
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/AbrahimAbdulkader/abrahimabdulkader"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GitHub repo
         </a>
       </header>
     </div>
