@@ -10,7 +10,7 @@ function App() {
           My name is Abrahim Abdulkader and I'm going to master React!        </p>
         <a
           className="App-link"
-          href="https://github.com/AbrahimAbdulkader/abrahimabdulkader"
+          href="https://github.com/AbrahimAbdulkader"
           target="_blank"
           rel="noopener noreferrer"
         >
